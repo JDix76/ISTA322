@@ -1,0 +1,7 @@
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojAssemblyReference.cache
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb

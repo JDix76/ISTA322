@@ -1,0 +1,7 @@
+C:\Users\butta\Desktop\ISTA322\EXERCISE\RouletteGameFinal\RouletteGameFinal\bin\Debug\RouletteGameFinal.exe.config
+C:\Users\butta\Desktop\ISTA322\EXERCISE\RouletteGameFinal\RouletteGameFinal\bin\Debug\RouletteGameFinal.exe
+C:\Users\butta\Desktop\ISTA322\EXERCISE\RouletteGameFinal\RouletteGameFinal\bin\Debug\RouletteGameFinal.pdb
+C:\Users\butta\Desktop\ISTA322\EXERCISE\RouletteGameFinal\RouletteGameFinal\obj\Debug\RouletteGameFinal.csprojAssemblyReference.cache
+C:\Users\butta\Desktop\ISTA322\EXERCISE\RouletteGameFinal\RouletteGameFinal\obj\Debug\RouletteGameFinal.csproj.CoreCompileInputs.cache
+C:\Users\butta\Desktop\ISTA322\EXERCISE\RouletteGameFinal\RouletteGameFinal\obj\Debug\RouletteGameFinal.exe
+C:\Users\butta\Desktop\ISTA322\EXERCISE\RouletteGameFinal\RouletteGameFinal\obj\Debug\RouletteGameFinal.pdb

@@ -1,0 +1,7 @@
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGameMachine\GuessingGameMachine\bin\Debug\GuessingGameMachine.exe.config
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGameMachine\GuessingGameMachine\bin\Debug\GuessingGameMachine.exe
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGameMachine\GuessingGameMachine\bin\Debug\GuessingGameMachine.pdb
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGameMachine\GuessingGameMachine\obj\Debug\GuessingGameMachine.csprojAssemblyReference.cache
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGameMachine\GuessingGameMachine\obj\Debug\GuessingGameMachine.csproj.CoreCompileInputs.cache
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGameMachine\GuessingGameMachine\obj\Debug\GuessingGameMachine.exe
+C:\Users\butta\Desktop\ISTA322\EXERCISE\GuessingGameMachine\GuessingGameMachine\obj\Debug\GuessingGameMachine.pdb
